@@ -23,11 +23,11 @@ h3 {
   font-size: 24px;
 }
 
-.identifier {
+/* .identifier {
   border: solid;
   border-color: rgb(255, 162, 101);
   border-width: 2px;
-}
+} */
 
 .header {
   background-color: #571664;
