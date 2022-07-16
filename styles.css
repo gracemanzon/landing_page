@@ -63,7 +63,7 @@ h3 {
   background-color: #571664;
   display: flex;
   justify-content: center;
-  padding: 30px 175px 30px 175px;
+  padding: 100px 175px 125px 175px;
 }
 
 .text-card {
@@ -94,7 +94,7 @@ h3 {
 }
 
 .mid-card {
-  padding: 25px 75px 25px 75px;
+  padding: 225px 75px 175px 75px;
 }
 
 .imgs {
@@ -160,6 +160,10 @@ h3 {
   justify-content: space-between;
   align-items: center;
   color: #f9faf8;
+}
+
+.contactimg {
+  width: 60px;
 }
 
 .button-2 {
